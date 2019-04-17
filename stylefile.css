@@ -1,0 +1,19 @@
+h1{
+  color: red;
+  text-align: center;
+  font-size: 3.4em;
+}
+h2 {
+  color: blue;
+  font-style: italic;
+  text-align: center;
+  font
+.one{
+ float: inherit;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
